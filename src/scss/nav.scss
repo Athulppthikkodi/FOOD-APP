@@ -1,0 +1,24 @@
+.nav {
+  background-color: #dacfcf;
+padding: 20px 0;
+  li {
+    list-style: none;
+  }
+  .nav-wrap{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  li{
+    padding-right: 15px;
+}
+  .left-section{
+    width: 70%;
+    display: flex;
+    
+  }
+  .right-section{
+    width: 30%;
+    display: flex;
+  }
+}
